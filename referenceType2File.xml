@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>6dc8ecaeda84d944fb6b28101f3554e4</guid>
+    <fileName>Assets/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>af760f0dc01b5254a8deb88d383675eb</guid>
+    <fileName>Assets/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>59b85ff328da6a54eb5aa3c4739ef1f3</guid>
+    <fileName>Assets/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2725f65363d6c04389f582788ddeaf6</guid>
+    <fileName>Assets/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea81316d2f60ee147b80a39f163c466a</guid>
+    <fileName>Assets/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f665a22177d2f054a8f843ef530102d3</guid>
+    <fileName>Assets/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T16:39:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16267d3669fe07f46a9db789410ddb33</guid>
+    <fileName>Assets/PunchGame/Scripts/HitEffect_Script.cs</fileName>
+    <timeStamp>2025-11-07T13:13:24.1131637+03:00</timeStamp>
+    <typeFullName>
+      <string>PlaySoundOnHit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a8a289ffaf61604d92a527682116bc9</guid>
+    <fileName>Assets/PunchGame/Scripts/SpringMesh.cs</fileName>
+    <timeStamp>2025-11-07T13:30:52.1212008+03:00</timeStamp>
+    <typeFullName>
+      <string>SpringMesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c625fffdda2912d4cabfc8cdb4968dd4</guid>
+    <fileName>Assets/VFXPACK_IMPACT_WALLCOEUR_FreeVersion/Scripts/DropdownController.cs</fileName>
+    <timeStamp>2025-09-25T09:59:44+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.VFXPACK_IMPACT_WALLCOEUR.Scripts.DropdownController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e2f4b17ef261474f8627657365315db</guid>
+    <fileName>Assets/VFXPACK_IMPACT_WALLCOEUR_FreeVersion/Scripts/VfxController.cs</fileName>
+    <timeStamp>2025-09-25T09:59:20+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.VFXPACK_IMPACT_WALLCOEUR.Scripts.VfxController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2dd7fabdb14fca498bd9e0def11ab19</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/AnchorVisuals.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.AnchorVisuals</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>72fb4b8d89bc26347a49177acaa93913</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/BezierCurve.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.BezierCurve</string>
+      <string>Unity.VRTemplate.BezierCurve+UpdateType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f390e213230ce1d42a51aed871ab74ce</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/BooleanToggleVisualsController.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.BooleanToggleVisualsController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16809ed3baa3d2341b75ec4c0aa874d0</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/Callout.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.Callout</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84f6509f3c7fa7b4899c9c767f49e622</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/CalloutGazeController.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.CalloutGazeController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>210883af668c0fc4aab890d9ad3cfd6f</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/DestroyObject.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.DestroyObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f369c769e8961844a3c7ccacd4c3cd5</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.LaunchProjectile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4f2f658073e4974d800c553fe797db1</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/RayAttachModifier.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.RayAttachModifier</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0bb83e3cfa27c6d4487384ed695c76bd</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/Rotator.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.Rotator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6fc0d34940dd44129c17bc6d4396b866</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/StepManager.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.StepManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9f926e9bbc6b3149869d0f7ecdf53a3</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/VideoPlayerRenderTexture.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.VideoPlayerRenderTexture</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ca75f292f7449044807f6ba9e6f954c</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/VideoTimeScrubControl.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.VideoTimeScrubControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e888dc0064d84d041818fa202b52d6be</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/XRKnob.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.XRKnob</string>
+      <string>Unity.VRTemplate.XRKnob+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0908100b30fe0ab4191734ae3261431f</guid>
+    <fileName>Assets/VRTemplateAssets/Scripts/XRPokeFollowAffordanceFill.cs</fileName>
+    <timeStamp>2025-06-11T19:30:15+03:00</timeStamp>
+    <typeFullName>
+      <string>Unity.VRTemplate.XRPokeFollowAffordanceFill</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e766f86cb7d2461683eb37d8a971fb14</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a5f76f9ea8c80547973ab01877f9567</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/ControllerAnimator.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9ac216f0eb04754b1d938aac6380b31</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/ControllerInputActionManager.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>717c12e2a4cfe764ab2580b1135e10fd</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/DestroySelf.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b1e8c997df241c1a67045eeac79b41b</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/DynamicMoveProvider.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ef0e4723b64c884699a375196c13ac0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/GazeInputManager.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7883133e628dff4a86f50c082f77055</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/MaterialPipelineHandler.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>956dd6cf70eaca449a45b6a95b96c8c1</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/ObjectSpawner.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dd2e41114c62b44fbd334ca5b314352</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7da98a0edd844d83b9b4de3f91de030c</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07b3638c2f5db5b479ff24c2859713d4</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Scripts/XRPokeFollowAffordance.cs</fileName>
+    <timeStamp>2025-06-11T19:30:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba6ff5e7c92519444bc2a7ca46558963</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs</fileName>
+    <timeStamp>2025-06-11T19:30:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e001d3dc91354f8f8c590b4e1d1d3da9</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/DemoSceneAssets/Scripts/MultiAnchorTeleportReticle.cs</fileName>
+    <timeStamp>2025-06-11T19:30:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef67ceb22b2224643a2d5004fc2a678a</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.1.2/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs</fileName>
+    <timeStamp>2025-06-11T19:30:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
