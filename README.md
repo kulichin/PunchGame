@@ -1,6 +1,6 @@
 # Punch Game
 ## Description
-  This project demonstrates a punching mechanic in VR. It was built with Unity 2023.3.6f2 and tested on the Oculus Quest 2. [Showcase](https://drive.google.com/file/d/1SFezru2xQiJ2HWU-TjEdk2pSUh3dfMhV/view?usp=sharing)
+This project demonstrates a punching mechanic in VR. After starting the game, we spawn in the center of the ring, and we can punch the dummy with our hands. It was built with Unity 2023.3.6f2 and tested on the Oculus Quest 2. [Showcase](https://drive.google.com/file/d/1SFezru2xQiJ2HWU-TjEdk2pSUh3dfMhV/view?usp=sharing)
 ## Assets used in the project
   - https://sketchfab.com/3d-models/boxing-ring-861f09ce71014e4baebeb79b2f99b1d2
   - https://sketchfab.com/3d-models/lamp-02-lowpoly-0f5519beb6644e5ea714055382c20d5f
